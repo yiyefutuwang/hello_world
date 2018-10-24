@@ -1,2 +1,3 @@
 # hello_world
-frist github
+first github
+the second version
